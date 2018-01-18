@@ -8,7 +8,7 @@ The iFishGroup Inc. VueJS+NuxtJS+VuetifyJS+Axios Boilerplate.
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
-$ vue init nuxt-community/starter-template my-project  
+$ vue init ifishgroup/nuxtjs-starter-template my-project  
 $ cd my-project                     
 # install dependencies
 $ npm install # Or yarn install
