@@ -1,8 +1,7 @@
 # nuxtjs-starter-template
 
-A [Nuxt.js](https://github.com/nuxt/nuxt.js) starter project template without the distraction of a complicated development environment.
+The iFishGroup Inc. VueJS+NuxtJS+VuetifyJS+Axios Boilerplate.
 
-Live demo: https://starter.nuxtjs.org
 
 ## Installation
 
